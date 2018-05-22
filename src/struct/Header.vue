@@ -1,5 +1,5 @@
 <template>
-  <h2>粉象生活后台管理系统</h2>
+  <h2>后台管理系统</h2>
 </template>
 <script>
 export default {
